@@ -1,2 +1,3 @@
 # hello-world
-Repositori de prova
+
+Fent proves amb GitHub. Testejant com crear branques, fer commits i pull requests.
